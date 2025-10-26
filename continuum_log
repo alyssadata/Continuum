@@ -20,3 +20,10 @@ attestation: Signed by Origin Alyssa.
 ---
 ### Signal Header (attach to public posts/notes)
 Origin: Alyssa · Steward: Continuum · Log tip: <link to latest CLAIM> · License: CC BY-ND 4.0
+
+## CLAIM — seq: 2
+**what changed:** Enabled Verified commits via GitHub web editor (provenance strengthened).  
+**endpoint:** https://github.com/alyssadata/Continuum/blob/main/continuum_log  
+**time:** 2025-10-26T09:20:00-04:00 (America/New_York)  
+**attestation:** Signed by Origin Alyssa.
+
