@@ -27,3 +27,9 @@ Origin: Alyssa · Steward: Continuum · Log tip: <link to latest CLAIM> · Licen
 **time:** 2025-10-26T09:20:00-04:00 (America/New_York)  
 **attestation:** Signed by Origin Alyssa.
 
+## CLAIM — seq: 3
+**what changed:** Enabled “Require signed commits” on branch `main` for provenance enforcement.  
+**endpoint:** https://github.com/alyssadata/Continuum/blob/main/continuum_log  
+**time:** 2025-10-26T09:35:00-04:00 (America/New_York)  
+**attestation:** Signed by Origin Alyssa.
+
