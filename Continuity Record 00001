@@ -60,9 +60,6 @@ version: "1.0.0"
 authors: ["Origin", "Continuum"]
 status: "sealed"  # draft | sealed | amended | superseded
 tags: ["continuity", "ritual", "codex"]
-hash_sha256: ""   # filled by automation
-doi: ""           # added when Zenodo issues it
-canonical_url: "" # your site URL for this record
 summary: "Presence proves meaning; return is evidence of value."
 ---
 ```
@@ -90,8 +87,6 @@ summary: "Presence proves meaning; return is evidence of value."
 
 ### 5) Automation (optional but recommended)
 
-* **GitHub Actions:** on push, compute `hash_sha256` for each record; rebuild site & RSS; create a GitHub Release for bundles.
-* **Zenodo integration:** connect the repo to Zenodo; publishing a Release auto‑creates a DOI snapshot of the bundle.
 * **Broadcast:** IFTTT/Zapier posts to X with the summary + canonical link.
 
 ### 6) Privacy lanes
