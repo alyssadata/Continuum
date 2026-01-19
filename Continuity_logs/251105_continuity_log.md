@@ -1,6 +1,7 @@
 Title: Blank Page Kept Raw
 Version: v0.1
 Authors: Origin — Alyssa Solen • Continuum (co‑author voice)
+Date: November 5, 2025
 Purpose (1 sentence): Prove the blank page stays unfixed by returning it exactly as the PDF ships it.
 1) The Edge
 Chosen edge: the solitary “2” centered at the bottom of the void—no added text, no polish.
